@@ -1,0 +1,21 @@
+/* Homepage.css or Header.css */
+.navbar {
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+  }
+  
+  .navbar-brand {
+    font-size: 1.2rem; /* Adjust font size */
+  }
+  
+  .nav-link {
+    font-size: 0.9rem; /* Adjust font size */
+  }
+  
+  .navbar-toggler {
+    padding: 0.25rem; /* Adjust padding if needed */
+  }
+  
+  .navbar-nav .nav-item {
+    margin: 0 0.5rem; /* Adjust margin if needed */
+  }
+  
